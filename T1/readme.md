@@ -1,7 +1,13 @@
 # Membros do grupo:
-- Mateus Nunes Campos 00268613 Turma B
-
-
+## Mateus Nunes Campos 
+- Cartão 00268613 
+- Turma B
+## Milena Maciel
+- Cartão 
+- Turma A
+## Felipe Rambo
+- Cartão
+- Turma A
 
 
 ## BFS com estado "2_3541687": 
