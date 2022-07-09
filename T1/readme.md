@@ -9,7 +9,7 @@
 - Cartão
 - Turma A
 
-
+#Estatísticas dos Algoritmos:
 ## BFS com estado "2_3541687": 
 
 - Tempo : 0.7497 segundos.
