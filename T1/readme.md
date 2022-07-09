@@ -4,7 +4,7 @@ Membros do grupo:
 
 
 
-BFS com estado 2_3541687: 
+BFS com estado "2_3541687": 
 
 - Tempo : 0.7497 segundos.
 
@@ -13,7 +13,7 @@ BFS com estado 2_3541687:
 - Custo da solução : 23
 
 
-DFS com estado 2_3541687: 
+DFS com estado "2_3541687": 
 
 - Tempo : 0.6287 segundos.
 
@@ -22,7 +22,7 @@ DFS com estado 2_3541687:
 - Custo da solução : 50819
 
 
-A* Hamming com estado 2_3541687: 
+A* Hamming com estado "2_3541687": 
 
 - Tempo : 0.2837 segundos.
 
@@ -31,7 +31,7 @@ A* Hamming com estado 2_3541687:
 - Custo da solução : 23
 
  
-A* Manhattan com estado 2_3541687: 
+A* Manhattan com estado "2_3541687": 
 
 - Tempo : 0.0407 segundos.
 
