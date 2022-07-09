@@ -1,3 +1,4 @@
-# IA_2022
-2022/1 Artificial Intelligence assignments
-Professor Anderson Tavares
+# Inteligência Artificial - UFRGS/2022
+## Trabalhos da Cadeira
+
+Ministrada pelo Professor Anderson Tavares
